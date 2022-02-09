@@ -70,14 +70,14 @@ lessons:
     type: episode
     branch: gh-pages
     date: 17 February 2022
-    start-time: 1:00 pm
+    start-time: 12:30 pm
     
   - title: Managing Academic Software Development
     gh-name: project-novice
     type: episode
     branch: gh-pages
     date: 24 February 2022
-    start-time: 1:00 pm
+    start-time: 12:30 pm
   
 # Specify that things in the episodes collection should be output.
 collections:
