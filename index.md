@@ -182,5 +182,5 @@ If using RSG these are generated from each individual lesson
 {% if site.carpentry == "swc" %}
 {% include swc/setup.html %}
 {% elsif site.carpentry == "rsg" %}
-{% include rsg/setup.html %}
+The instructions for all the software can be found <a href = "./setup"> on the setup page.</a>
 {% endif %}
