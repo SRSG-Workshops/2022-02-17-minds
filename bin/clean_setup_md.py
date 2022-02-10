@@ -72,6 +72,8 @@ def main():
     date_sorted_lessons = sorted(lessons, key=lambda x: x["date"])
 
     setup_md_string = """
+## Setup
+
 ### Text Editor
 
 A text editor is the piece of software you use to view and write code. If you
