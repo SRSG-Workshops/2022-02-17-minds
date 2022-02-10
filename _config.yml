@@ -27,7 +27,7 @@ longitude: "-1.404351"   # longitude of location (Soton: -1.404351)
 
 # Specify the start and end date of the workshop
 humandate: "17th, 24th Feb"      # e.g. "6th August"
-humantime: "1:00pm"      # e.g. "09:00-17:00"
+humantime: "13:00-16:00"      # e.g. "09:00-17:00"
 startdate: 2022-02-17        # e.g. YYYY-MM-DD
 enddate: 2022-02-24          # e.g. YYYY-MM-DD
 
