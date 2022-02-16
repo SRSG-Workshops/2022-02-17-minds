@@ -26,8 +26,8 @@ latitude: "50.909698"    # latitude of location (Soton: 50.909698)
 longitude: "-1.404351"   # longitude of location (Soton: -1.404351)
 
 # Specify the start and end date of the workshop
-humandate: "17th, 24th Feb"      # e.g. "6th August"
-humantime: "13:00-16:00"      # e.g. "09:00-17:00"
+humandate: "17th & 24th Feb"      # e.g. "6th August"
+humantime: "13:00-16:00 & 10:00-13:00"      # e.g. "09:00-17:00"
 startdate: 2022-02-17        # e.g. YYYY-MM-DD
 enddate: 2022-02-24          # e.g. YYYY-MM-DD
 
@@ -55,7 +55,7 @@ lessons:
     type: episode
     branch: gh-pages
     date: 24 February 2022
-    start-time: 12:30 pm
+    start-time: 9:30 pm
 
 # Specify that things in the episodes collection should be output.
 collections:
