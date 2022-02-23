@@ -58,7 +58,7 @@ lessons:
     type: episode
     branch: gh-pages
     date: 24 February 2022
-    start-time: 9:30 pm
+    start-time: 9:30 am
 
 # Specify that things in the episodes collection should be output.
 collections:
