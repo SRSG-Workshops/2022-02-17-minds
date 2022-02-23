@@ -68,7 +68,7 @@ Finally, go to [your Settings -> SSH keys page and add a new SSH key](https://gi
 Now we are ready to download the code that we need for this lesson, using Git on the command line. Open a terminal on your machine, and enter:
 ~~~
 $ cd
-$ git clone https://github.com/Southampton-RSG/swc-git-novice
+$ git clone https://github.com/Southampton-RSG-Training/git-novice
 ~~~
 {: .language-bash}
 
@@ -78,13 +78,26 @@ $ git clone https://github.com/Southampton-RSG/swc-git-novice
 
 ### Managing Academic Software Development
 
-#### Project Managment Setup 
+#### Project Management Setup
 
 Before we get started, there are a few requirements to meet. You will need:
 
 * [A GitHub account](https://github.com), with ssh key access.
-* A GitHub repository titled `climate-analysis` (created in our **Version Control with git** training).
+* A GitHub repository titled `climate-analysis` (created in our **Version Control with Git** training).
 * A code editor (we recommend [Visual Studio Code](https://code.visualstudio.com/))
 
-If you haven't done our **Version Control with git** training and don't have a `climate-analysis` repository, you can create an empty one now. 
-No specific contents are required for this lesson.
+##### Getting the Demo Repository
+
+If you haven't done our **Version Control with Git** training and don't have a `climate-analysis` repository, you can import a copy of it that's up-to-date.
+
+[Go to GitHub](https://github.com) and from the **+** icon on the top bar select **Import Repository** (or [go directly to it here](https://github.com/new/import):
+
+![Import repository option location](fig/setup/import-repository.png)
+
+Then, provide the demo repository [https://github.com/Southampton-RSG-Training/project-novice](https://github.com/Southampton-RSG-Training/project-novice) into the **Old Repository's Clone URL** field, and give it a name - e.g. `climate-analysis` or `project-novice-climate-analysis`, and click **Begin Import**:
+
+![Import repository screen](fig/setup/import-repository-next.png)
+
+Once you've begun the import process, it'll complete in anywhere from a few seconds to a few minutes; then you can click the link to go straight to your new copy:
+
+![Repository successfully imported](fig/setup/import-repository-final.png)
